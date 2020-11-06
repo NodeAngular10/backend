@@ -8,6 +8,21 @@ Tech Used
 
 Prerequisite -  NodeJS and NPM is already installed and MYSQL is also already installed in your computer
 
+
+## Requirments Satisfied
+
+- [x]  Use the Mysql database.
+- [x]  Frontend applications should integrate with Backend through REST services.
+- [x] use the simplest authentication mechanism and put dummy data in DB table/s.
+- [x]  Create new products.
+- [x]  List products.
+- [x]  Delete one or more products.
+- [ ]  Provide test coverage.
+- [x]  You can use minimal attributes for database entities, 4 to 6 per table are enough.
+- [x]  No ORM is required.
+
+---
+
 ## Installation
 
 Clone the repository and run the following commads
